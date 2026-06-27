@@ -117,9 +117,10 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
-  overflow-x: hidden;
+  font-family: 'Orbitron', sans-serif;
   background: #0b0f1a;
   color: white;
+  overflow-x: hidden;
 }
 
 button {
